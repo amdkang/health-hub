@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/health-hub/static/css/main.f1e2ae46.css",
-    "main.js": "/health-hub/static/js/main.8b531f7d.js",
+    "main.js": "/health-hub/static/js/main.c991eafb.js",
     "static/js/952.f6c26e2f.chunk.js": "/health-hub/static/js/952.f6c26e2f.chunk.js",
     "static/media/satellite.png": "/health-hub/static/media/satellite.816e3867a04bac80231e.png",
     "static/media/empty-box.png": "/health-hub/static/media/empty-box.706a2ba60408b52a84e7.png",
@@ -32,11 +32,11 @@
     "static/media/first-aid-box.png": "/health-hub/static/media/first-aid-box.1a9d1a0333d0bbc701c3.png",
     "index.html": "/health-hub/index.html",
     "main.f1e2ae46.css.map": "/health-hub/static/css/main.f1e2ae46.css.map",
-    "main.8b531f7d.js.map": "/health-hub/static/js/main.8b531f7d.js.map",
+    "main.c991eafb.js.map": "/health-hub/static/js/main.c991eafb.js.map",
     "952.f6c26e2f.chunk.js.map": "/health-hub/static/js/952.f6c26e2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1e2ae46.css",
-    "static/js/main.8b531f7d.js"
+    "static/js/main.c991eafb.js"
   ]
 }
