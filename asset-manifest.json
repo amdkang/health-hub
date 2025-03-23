@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/health-hub/static/css/main.f1e2ae46.css",
+    "main.js": "/health-hub/static/js/main.97c10882.js",
+    "static/js/952.f6c26e2f.chunk.js": "/health-hub/static/js/952.f6c26e2f.chunk.js",
+    "static/media/satellite.png": "/health-hub/static/media/satellite.816e3867a04bac80231e.png",
+    "static/media/empty-box.png": "/health-hub/static/media/empty-box.706a2ba60408b52a84e7.png",
+    "static/media/drug-allergy.png": "/health-hub/static/media/drug-allergy.2d6c87bcfb57afdb30bc.png",
+    "static/media/calendar.png": "/health-hub/static/media/calendar.f11ae7c4cc0d81f2e73c.png",
+    "static/media/doctor.png": "/health-hub/static/media/doctor.a64f2afd979254a09b03.png",
+    "static/media/pills-7.png": "/health-hub/static/media/pills-7.8f7734dd5ed0fcd1e722.png",
+    "static/media/image-file-1.png": "/health-hub/static/media/image-file-1.981596571808a83e16c3.png",
+    "static/media/document-3.png": "/health-hub/static/media/document-3.4e8790b2d27dc736d6f0.png",
+    "static/media/pills-4.png": "/health-hub/static/media/pills-4.c815b64aa97640d5c4a9.png",
+    "static/media/pills-3.png": "/health-hub/static/media/pills-3.d93f191a688d9dca8f89.png",
+    "static/media/document-2.png": "/health-hub/static/media/document-2.21baadb945dc57ea3cbb.png",
+    "static/media/document-4.png": "/health-hub/static/media/document-4.dc8a5c3039a736b8ca8d.png",
+    "static/media/image-file-2.png": "/health-hub/static/media/image-file-2.ffa1934a248adaeead2e.png",
+    "static/media/pills-2.png": "/health-hub/static/media/pills-2.52635e855fdbe82138ef.png",
+    "static/media/pills-5.png": "/health-hub/static/media/pills-5.9354e883c44601e7758d.png",
+    "static/media/document-1.png": "/health-hub/static/media/document-1.874dd956307a2bb99895.png",
+    "static/media/photos.png": "/health-hub/static/media/photos.7231b3884587de86cc90.png",
+    "static/media/pills-6.png": "/health-hub/static/media/pills-6.2c969f3e66168949e424.png",
+    "static/media/image-file-3.png": "/health-hub/static/media/image-file-3.a87b97f485a06ee16966.png",
+    "static/media/graph.png": "/health-hub/static/media/graph.7924ab12f6badc6f6389.png",
+    "static/media/warning.png": "/health-hub/static/media/warning.38724790d724cc647b4c.png",
+    "static/media/empty-folder.png": "/health-hub/static/media/empty-folder.de595102a8d0b10d71cf.png",
+    "static/media/document-5.png": "/health-hub/static/media/document-5.ee9d672f96a0ec3f5482.png",
+    "static/media/med-bottle.png": "/health-hub/static/media/med-bottle.5dc578b78db97c1efcc7.png",
+    "static/media/pills-1.png": "/health-hub/static/media/pills-1.d38886d474ae3b563f85.png",
+    "static/media/pinned-notes.png": "/health-hub/static/media/pinned-notes.a1f0307ab84b3b9e5c57.png",
+    "static/media/first-aid-box.png": "/health-hub/static/media/first-aid-box.1a9d1a0333d0bbc701c3.png",
+    "index.html": "/health-hub/index.html",
+    "main.f1e2ae46.css.map": "/health-hub/static/css/main.f1e2ae46.css.map",
+    "main.97c10882.js.map": "/health-hub/static/js/main.97c10882.js.map",
+    "952.f6c26e2f.chunk.js.map": "/health-hub/static/js/952.f6c26e2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1e2ae46.css",
+    "static/js/main.97c10882.js"
+  ]
+}
