@@ -77,6 +77,7 @@ export const FamilyHistory = () => {
     const [memberModal, setMemberModal] = useState({ open: false, member: null });
     const editModeRef = useRef(editMode);
     const snackbarRef = useRef(null);   
+    console.log(treeData);
     
     // defines button items for `EditModeSpeedDial`
     const editModeOptions = {

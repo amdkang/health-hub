@@ -325,6 +325,7 @@ export const getMainUserPicture = async () => {
         if (mainUserPic) return mainUserPic;
 
         const profiles = await searchProfiles("memberID", MAIN_USER_ID);  
+        console.log('profiles: ', profiles);
         const picturePath =  profiles.length === 1 ? profiles[0]?.fullPicturePath : null;
         localStorage.setItem('mainUserPic', picturePath);    
         return picturePath;

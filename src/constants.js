@@ -2,7 +2,7 @@ export const APP_NAME = "Health Hub";
  
 export const MAIN_USER_ID = 1;   
   
-export const DEFAULT_PROFILE_PIC_PATH = `/default_profile_pictures`;
+export const DEFAULT_PROFILE_PIC_PATH = `${process.env.PUBLIC_URL}/default_profile_pictures`;
 
 export const MEMBER_AVATAR_PATHS = [
    "man2.png",

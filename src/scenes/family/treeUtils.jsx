@@ -534,8 +534,7 @@ async function deleteEmpty(treeData) {
                 return deleteMarriages(lvl.marriagesToDel, lvl.levelID);
             }
         })
-    );  
-    console.log('\nlvlsToDel: ', lvlsToDel);
+    );   
     if (lvlsToDel.length > 0) await deleteLevels(lvlsToDel); 
 };
 

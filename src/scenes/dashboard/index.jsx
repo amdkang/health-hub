@@ -9,7 +9,7 @@ import { MedTracker } from "./MedTracker";
 import { Calendar } from "./Calendar";   
 import { VisitNameCell } from "../visits/VisitsDataGrid";
 import { formatDate } from "../../utils";
-import { MAIN_USER_ID } from "../../constants";
+import { DEFAULT_PROFILE_PIC_PATH, MAIN_USER_ID } from "../../constants";
 import { containerStyles, mainContentStyles, pageStyles } from "../../styles";   
 
 const VisitsGrid = memo(({ visits, bgcolor }) => {
@@ -100,7 +100,7 @@ export const Dashboard = () => {
     const [meds, setMeds] = useState([]); 
     const [visits, setVisits] = useState([]);
     const [events, setEvents] = useState([]);  
-    const [dbError, setDbError] = useState(false);   
+    const [dbError, setDbError] = useState(false); 
      
     useEffect(() => {
         const fetchAllData = async () => { 
@@ -126,7 +126,7 @@ export const Dashboard = () => {
     }, []);   
 
     return (
-        <Stack direction="column" sx={pageStyles} >
+        <Stack direction="column" sx={pageStyles} > 
             <Topbar
                 title="DASHBOARD"
                 subtitle="Welcome To Your Health Hub"
